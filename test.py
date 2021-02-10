@@ -1,1 +1,3 @@
-print('success')
+def test_function():
+  print('success')
+
